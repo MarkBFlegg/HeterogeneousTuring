@@ -1,0 +1,3 @@
+function []=userplot(varargin)
+
+end
